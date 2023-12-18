@@ -8,30 +8,30 @@
                               class="rounded-lg mb-[1em] tarif__part_one--vacance"
                         >
                               <h2>
-                                    Tarifs vacances <br />
-                                    (Pour une semaine)
+                                    Holiday Rates <br />
+                                    (For one week)
                               </h2>
                         </div>
 
                         <!--  Tarifs basse saison -->
                         <div class="rounded-lg h-[39.9vh] mb-[1.5em]">
-                              <h2>Tarifs basse saison</h2>
+                              <h2>Low Season Rates</h2>
                         </div>
 
                         <!--  Pour votre confort -->
                         <div class="rounded-lg h-[31.7vh] mb-[1em]">
-                              <h2>Pour votre confort</h2>
+                              <h2>For Your Comfort</h2>
                         </div>
 
                         <!--  A votre arrivée -->
                         <div class="rounded-lg h-[15vh] mb-[1em]">
-                              <h2>A votre arrivée</h2>
+                              <h2>Upon Your Arrival</h2>
                         </div>
 
                         <!-- Réservation -->
 
                         <div class="rounded-lg h-[16vh] mb-[1em]">
-                              <h2>Réservation</h2>
+                              <h2>Reservation</h2>
                         </div>
                   </div>
 
@@ -62,7 +62,7 @@
                                     />
 
                                     <div class="bubble">
-                                          <p>Arrivée samedi</p>
+                                          <p>Saturday Arrival</p>
                                     </div>
                               </div>
 
@@ -132,7 +132,7 @@
                                           </svg>
                                     </div>
 
-                                    <p>Arrivée samedi</p>
+                                    <p>Saturday Arrival</p>
                               </div>
                         </div>
 
@@ -158,7 +158,7 @@
                                     id="basse--awesome"
                               >
                                     <div class="bubble_basse">
-                                          <p>Arrivée libre</p>
+                                          <p>Open Arrival</p>
                                     </div>
 
                                     <img
@@ -237,7 +237,7 @@
                                           </svg>
                                     </div>
 
-                                    <p>Arrivée libre</p>
+                                    <p>Open Arrival</p>
                               </div>
                         </div>
 
@@ -251,7 +251,7 @@
                                     id="tarif__confort--awesome"
                               >
                                     <div class="bubble_confort">
-                                          <p>En option</p>
+                                          <p>Optional</p>
                                     </div>
 
                                     <img
@@ -271,8 +271,7 @@
                                                             icon="fa-solid fa-check"
                                                             class="mr-2"
                                                       />
-                                                      Préparation d'un lit 2
-                                                      personnes :
+                                                      Bed preparation for 2 persons :
                                                       <span class="tarif__price"
                                                             >8€</span
                                                       >
@@ -282,8 +281,7 @@
                                                             icon="fa-solid fa-check"
                                                             class="mr-2"
                                                       />
-                                                      Préparation d'un lit 1
-                                                      personne :
+                                                      Bed preparation for 1 person :
                                                       <span class="tarif__price"
                                                             >6€</span
                                                       >,
@@ -293,19 +291,18 @@
                                                             icon="fa-solid fa-check"
                                                             class="mr-2"
                                                       />
-                                                      Mise à disposition des
-                                                      serviettes de bain :
+                                                      Provision of bath towels :
                                                       <span class="tarif__price"
                                                             >6€</span
                                                       >
-                                                      par personne
+                                                      per person
                                                 </li>
                                                 <li>
                                                       <font-awesome-icon
                                                             icon="fa-solid fa-check"
                                                             class="mr-2"
                                                       />
-                                                      Forfait ménage :
+                                                      Cleaning fee :
                                                       <span class="tarif__price"
                                                             >40€</span
                                                       >.
@@ -315,10 +312,7 @@
                                                             icon="fa-solid fa-check"
                                                             class="mr-2"
                                                       />
-                                                      A préciser à la
-                                                      réservation (un simple
-                                                      coup de fil à Cécile
-                                                      suffira).
+                                                      Specify when booking (a simple call to Cécile will be sufficient).
                                                 </li>
 
                                                 <li>
@@ -326,11 +320,11 @@
                                                             icon="fa-solid fa-check"
                                                             class="mr-2"
                                                       />
-                                                      Pour le bois
+                                                      Firewood :
                                                       <span class="tarif__price"
                                                             >50€
                                                       </span>
-                                                      le stère
+                                                      per cubic meter
                                                 </li>
 
                                                 <li>
@@ -338,14 +332,11 @@
                                                             icon="fa-solid fa-check"
                                                             class="mr-2"
                                                       />
-                                                      Attention le chauffage est
-                                                      en plus, et suivant votre
-                                                      consommation. Comptez
-                                                      environ
+                                                      Please note that heating is an additional cost, based on your consumption. Estimate around 
                                                       <span class="tarif__price"
                                                             >10€</span
                                                       >
-                                                      par jour en plein hiver.
+                                                      per day in the heart of winter.
                                                 </li>
                                           </ul>
                                     </div>
@@ -386,14 +377,10 @@
                                                       icon="fa-solid fa-check"
                                                       class="mr-2"
                                                 />
-                                                Une caution de
+                                                A deposit of
                                                 <span class="tarif__price"
                                                       >300€</span
-                                                >
-                                                vous sera demandée lors de votre
-                                                arrivée puis, restituée à votre
-                                                départ si les écrans plats sont
-                                                toujours là &#128512;.
+                                                > will be required upon your arrival and will be refunded upon departure if the flat screens are still there &#128512;.
                                           </p>
 
                                           <p>
@@ -401,12 +388,11 @@
                                                       icon="fa-solid fa-check"
                                                       class="mr-2"
                                                 />
-                                                Vos animaux de compagnie sont
-                                                les bienvenus, et
+                                                Your pets are welcome, and
                                                 <span class="font-semibold"
-                                                      >chez nous c'est sans
+                                                      >there is no additional cost
                                                       surcoût</span
-                                                >
+                                                >  for them.
                                           </p>
 
                                           <p>
@@ -414,10 +400,7 @@
                                                       icon="fa-solid fa-check"
                                                       class="mr-2"
                                                 />
-                                                Pour vos journées en
-                                                télétravail, le gîte est équipé
-                                                de la fibre internet très haut
-                                                débit 120 Mo/s.
+                                                For your telecommuting days, the cottage is equipped with high-speed fiber internet at 120 Mbps.
                                           </p>
                                     </div>
                               </div>
@@ -432,14 +415,12 @@
                               >
                                     <div>
                                           <p class="">
-                                                Alors n'attendez plus, les
-                                                réservations s'effectuent sur le
-                                                site de Gîtes de France.
+                                                So don't wait any longer, bookings are made on the Gîtes de France website.
 
                                                 <br />
 
                                                 <span class="">
-                                                      Cliquez
+                                                      Click
                                                       <a
                                                             href="https://www.gites-de-france-eure.com/location-vacances-Gite-Hauville-27G818.html"
                                                             target="_blank"
@@ -450,7 +431,7 @@
                                                                   class=""
                                                             />
                                                       </a>
-                                                      pour réserver.
+                                                      to book.
                                                 </span>
                                           </p>
                                     </div>
@@ -465,7 +446,7 @@
                               class="tarif__third_part--title"
                               data-aos="zoom-in-down"
                         >
-                              <h1>Tarifs vacances</h1>
+                              <h1>Holiday Rates</h1>
                         </div>
 
                         <!---------- Tarifs Vacances --------------------->
@@ -495,7 +476,7 @@
                                     />
 
                                     <div class="bubble">
-                                          <p>Arrivée samedi</p>
+                                          <p>Saturday Arrival</p>
                                     </div>
                               </div>
 
@@ -567,7 +548,7 @@
                                     />
 
                                     <div class="bubble_vac_mobile">
-                                          <p>Arrivée samedi</p>
+                                          <p>Saturday Arrival</p>
                                     </div>
                               </div>
 
@@ -643,7 +624,7 @@
                                           </svg>
                                     </div>
 
-                                    <p>Arrivée samedi</p>
+                                    <p>Saturday arrival</p>
                               </div>
                         </div>
 
@@ -652,7 +633,7 @@
                               class="tarif__third_part--title"
                               data-aos="zoom-in-down"
                         >
-                              <h1>Tarifs Basse Saison</h1>
+                              <h1>Low Season Rates</h1>
                         </div>
 
                         <!------------ Basse --------------------------->
@@ -677,7 +658,7 @@
                                     id="basse--awesome--tablette"
                               >
                                     <div class="bubble_basse">
-                                          <p>Arrivée libre</p>
+                                          <p>Open Arrival</p>
                                     </div>
 
                                     <img
@@ -752,7 +733,7 @@
                                           v-if="basseMobileBird"
                                     >
                                           <div class="bubble_basse_mobile">
-                                                <p>Arrivée libre</p>
+                                                <p>Open arrival</p>
                                           </div>
 
                                           <img
@@ -835,7 +816,7 @@
                                           </svg>
                                     </div>
 
-                                    <p>Arrivée libre</p>
+                                    <p>Open arrival</p>
                               </div>
                         </div>
 
@@ -844,7 +825,7 @@
                               class="tarif__third_part--title"
                               data-aos="zoom-in-down"
                         >
-                              <h1>Pour votre confort</h1>
+                              <h1>For Your Comfort</h1>
                         </div>
 
                         <!--- Pour votre confort --->
@@ -865,8 +846,7 @@
                                                             icon="fa-solid fa-check"
                                                             class="mr-2"
                                                       />
-                                                      Préparation d'un lit 2
-                                                      personnes :
+                                                      Bed preparation for 2 persons :
                                                       <span class="tarif__price"
                                                             >8€</span
                                                       >
@@ -876,8 +856,7 @@
                                                             icon="fa-solid fa-check"
                                                             class="mr-2"
                                                       />
-                                                      Préparation d'un lit 1
-                                                      personne :
+                                                      Bed preparation for 1 person :
                                                       <span class="tarif__price"
                                                             >6€</span
                                                       >,
@@ -887,19 +866,18 @@
                                                             icon="fa-solid fa-check"
                                                             class="mr-2"
                                                       />
-                                                      Mise à disposition des
-                                                      serviettes de bain :
+                                                      Provision of bath towels :
                                                       <span class="tarif__price"
                                                             >6€</span
                                                       >
-                                                      par personne
+                                                      per person
                                                 </li>
                                                 <li>
                                                       <font-awesome-icon
                                                             icon="fa-solid fa-check"
                                                             class="mr-2"
                                                       />
-                                                      Forfait ménage :
+                                                      Cleaning fee :
                                                       <span class="tarif__price"
                                                             >40€</span
                                                       >.
@@ -909,10 +887,7 @@
                                                             icon="fa-solid fa-check"
                                                             class="mr-2"
                                                       />
-                                                      A préciser à la
-                                                      réservation (un simple
-                                                      coup de fil à Cécile
-                                                      suffira).
+                                                      Specify when booking (a simple call to Cécile will be sufficient).
                                                 </li>
 
                                                 <li>
@@ -920,11 +895,11 @@
                                                             icon="fa-solid fa-check"
                                                             class="mr-2"
                                                       />
-                                                      Pour le bois
+                                                      Firewood :
                                                       <span class="tarif__price"
                                                             >50€
                                                       </span>
-                                                      le stère
+                                                      per cubic meter
                                                 </li>
 
                                                 <li>
@@ -932,14 +907,11 @@
                                                             icon="fa-solid fa-check"
                                                             class="mr-2"
                                                       />
-                                                      Attention le chauffage est
-                                                      en plus, et suivant votre
-                                                      consommation. Comptez
-                                                      environ
+                                                      Please note that heating is an additional cost, based on your consumption. Estimate around 
                                                       <span class="tarif__price"
                                                             >10€</span
                                                       >
-                                                      par jour en plein hiver.
+                                                      per day in the heart of winter.
                                                 </li>
                                           </ul>
                                     </div>
@@ -951,7 +923,7 @@
                               class="tarif__third_part--title"
                               data-aos="zoom-in-down"
                         >
-                              <h1>A votre arrivée</h1>
+                              <h1>Upon Your Arrival</h1>
                         </div>
 
                         <!-- A votre arrivée -->
@@ -988,14 +960,11 @@
                                                       icon="fa-solid fa-check"
                                                       class="mr-2"
                                                 />
-                                                Une caution de
+                                                A deposit of
                                                 <span class="tarif__price"
                                                       >300€</span
                                                 >
-                                                vous sera demandée lors de votre
-                                                arrivée puis, restituée à votre
-                                                départ si les écrans plats sont
-                                                toujours là &#128512;.
+                                                will be required upon your arrival and will be refunded upon departure if the flat screens are still there &#128512;.
                                           </p>
 
                                           <p>
@@ -1003,12 +972,11 @@
                                                       icon="fa-solid fa-check"
                                                       class="mr-2"
                                                 />
-                                                Vos animaux de compagnie sont
-                                                les bienvenus, et
+                                                Your pets are welcome, and
                                                 <span class="font-semibold"
-                                                      >chez nous c'est sans
+                                                      >there is no additional cost
                                                       surcoût</span
-                                                >
+                                                > for them.
                                           </p>
 
                                           <p>
@@ -1016,10 +984,7 @@
                                                       icon="fa-solid fa-check"
                                                       class="mr-2"
                                                 />
-                                                Pour vos journées en
-                                                télétravail, le gîte est équipé
-                                                de la fibre internet très haut
-                                                débit 120 Mo/s.
+                                                For your telecommuting days, the cottage is equipped with high-speed fiber internet at 120 Mbps.
                                           </p>
                                     </div>
                               </div>
@@ -1030,7 +995,7 @@
                               class="tarif__third_part--title"
                               data-aos="zoom-in-down"
                         >
-                              <h1>Réservations</h1>
+                              <h1>Reservation</h1>
                         </div>
 
                         <!------- Réservations ------>
@@ -1047,14 +1012,12 @@
                               >
                                     <div>
                                           <p class="">
-                                                Alors n'attendez plus, les
-                                                réservations s'effectuent sur le
-                                                site de Gîtes de France.
+                                                So don't wait any longer, bookings are made on the Gîtes de France website.
 
                                                 <br />
 
                                                 <span class="">
-                                                      Cliquez
+                                                      Click
                                                       <a
                                                             href="https://www.gites-de-france-eure.com/location-vacances-Gite-Hauville-27G818.html"
                                                             target="_blank"
@@ -1065,7 +1028,7 @@
                                                                   class=""
                                                             />
                                                       </a>
-                                                      pour réserver.
+                                                      to book.
                                                 </span>
                                           </p>
                                     </div>
@@ -2050,7 +2013,7 @@ export default {
                   width: 100%;
                   height: 100%;
 
-                  @media screen and (max-width: 769px){
+                  @media screen and (max-width: 769px) {
                         position: relative;
                         margin-top: 2em;
                   }
@@ -2066,7 +2029,7 @@ export default {
                         margin-right: 0.3em;
                         margin-left: 0.5em;
 
-                        @media screen and (max-width: 769px){
+                        @media screen and (max-width: 769px) {
                               width: 15%;
                         }
 
@@ -2082,7 +2045,7 @@ export default {
                         font-size: 1.2em;
                         font-weight: 900;
 
-                        @media screen and (max-width: 769px){
+                        @media screen and (max-width: 769px) {
                               transform: translateY(-4em);
                         }
 
@@ -2264,7 +2227,6 @@ export default {
       &__price {
             font-weight: 600;
             font-size: 1.2em;
-
       }
 
       &__third_part {

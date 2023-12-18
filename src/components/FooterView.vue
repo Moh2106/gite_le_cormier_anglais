@@ -3,7 +3,7 @@
     <!-------------------- -- ADRESSE ------------------------>
     <div>
         <address>
-            <h2>Adresse : </h2>
+            <h2>Address : </h2>
             <p class="mt-4"><font-awesome-icon icon="fa-solid fa-user-secret"/> 1 rue du cormier <br> 27350 Hauville</p>
         </address>
         
@@ -18,7 +18,7 @@
 
     <!-------------------- -- RESEAUX SOCIAUX ------------------------>
     <div class="reseau">
-        <h2 class="mb-4">Réseaux sociaux</h2>
+        <h2 class="mb-4">Social Media</h2>
         <div class="contact__icons">
             <p class="px-8" title="facebook ">
                 <a href="https://www.facebook.com/gitelecormier/" target="_blank" rel="noopener noreferrer"><font-awesome-icon :icon="['fab', 'square-facebook']"  class="text-2xl bg-blue-700   hover:scale-125 b"/></a>
@@ -45,7 +45,7 @@
 
     <!-------------------- -- LIENS ------------------------>
     <div class="liens">
-        <h2 class="mb-2">Lien</h2>
+        <h2 class="mb-2">Link</h2>
         <div class="liens__logo">
             <a href="https://www.gites-de-france-eure.com/location-vacances-Gite-Hauville-27G818.html" target="_blank">
                 <img src="../assets/Liens/logo_gite_eure_de_france.jpg" alt="logo gite eure de france" class="hover:scale-105">

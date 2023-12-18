@@ -5,28 +5,9 @@
                   data-aos="zoom-out-down"
             >
                   <div>
-                        <p v-if="chooseEnglishVersion">
-                              The 18th-century Normandy cottage, the charm of
-                              the past with modern comfort. 3000 m² of private
-                              landscaped garden. A large south-facing terrace, a
-                              temperature-controlled jacuzzi, numerous games for
-                              children, all the cooking facilities, high-speed
-                              fiber internet at 120 Mbps. <br />
-                              The meanders of the Seine await you just 10
-                              minutes away by bike, and the Brotonne forest
-                              (7000ha) begins right at the end of the street.
-                        </p>
-                        <p v-else>
-                              La chaumière normande du 18
-                              <sup>ème </sup> siècle, le charme de l'ancien avec
-                              le confort actuel. 3000 m² de jardin paysager
-                              privatif. Une grande terrasse plein Sud, le
-                              jaccuzzi à température, de nombreux jeux pour les
-                              enfants, tous les équipements pour cuisiner, la
-                              fibre internet très haut débit 120 Mo/s. <br />
-                              Les méandres de la Seine vous attendent à 10
-                              minutes à vélo, et la forêt de Brotonne (7000ha)
-                              commence juste au bout de la rue.
+                        <p>
+                              The 18th-century Norman thatched cottage, combining the charm of the past with modern comfort. 3000 m² of private landscaped garden. A large south-facing terrace, a temperature-controlled jacuzzi, numerous games for children, all the equipment for cooking, and high-speed fiber internet at 120 Mbps.<br /> 
+                              The meanders of the Seine await you just a 10 minutes bike ride away, and the Brotonne Forest (7000 ha) begins right at the end of the street.
                         </p>
                   </div>
             </div>
@@ -34,11 +15,7 @@
             <!------------- REZ DE CHAUSSE    ---------------------------------------->
 
             <h1 class="title mt-4 mb-4" data-aos="flip-right">
-                  {{
-                        chooseEnglishVersion
-                              ? "Ground floor"
-                              : "Au rez-de-chaussée"
-                  }}
+                  On the ground floor
             </h1>
             <div class="flex justify-between m-auto descriptif__section">
                   <swiper
@@ -71,11 +48,7 @@
                         data-aos-easing="ease-in-out"
                   >
                         <h1 class="font-semibold">
-                              {{
-                                    chooseEnglishVersion
-                                          ? "On the ground floor :"
-                                          : "Au rez-de-chaussée :"
-                              }}
+                              On the ground floor
                         </h1>
 
                         <ul class="w-4/5 mb-2">
@@ -88,9 +61,7 @@
                                     data-aos-easing="ease-in"
                               >
                                     {{
-                                          chooseEnglishVersion
-                                                ? description.englishDetails
-                                                : description.details
+                                          description.englishDetails
                                     }}
                               </li>
                         </ul>
@@ -234,11 +205,7 @@
                         </div>
 
                         <div class="blinking">
-                              {{
-                                    chooseEnglishVersion
-                                          ? "Hover over the map to explore"
-                                          : "Passer la souris sur le plan pour visiter"
-                              }}
+                              Hover over the map to explore
                         </div>
                   </div>
 
@@ -250,11 +217,7 @@
                         data-aos-easing="ease-in-out"
                   >
                         <h1 class="font-semibold">
-                              {{
-                                    chooseEnglishVersion
-                                          ? "On the ground floor :"
-                                          : "Au rez-de-chaussée :"
-                              }}
+                              On the ground floor :
                         </h1>
 
                         <ul class="w-4/5 mb-2">
@@ -267,9 +230,7 @@
                                     data-aos-easing="ease-in"
                               >
                                     {{
-                                          chooseEnglishVersion
-                                                ? description.englishDetails
-                                                : description.details
+                                          description.englishDetails
                                     }}
                               </li>
                         </ul>
@@ -430,22 +391,14 @@
                         </div>
 
                         <div class="blinking">
-                              {{
-                                    chooseEnglishVersion
-                                          ? "Hover over the map to explore"
-                                          : "Cliquer sur un élément du plan pour voir la galerie"
-                              }}
+                              Hover over the map to explore
                         </div>
                   </div>
             </div>
 
             <!-------------------------- 1ER ETAGE ------------------------------------>
             <h1 class="title" data-aos="flip-right">
-                  {{
-                        chooseEnglishVersion
-                              ? "On the 1st Floor"
-                              : "Au 1er Etage"
-                  }}
+                  On the 1st Floor
             </h1>
             <div class="flex justify-between m-auto descriptif__section">
                   <swiper
@@ -479,11 +432,7 @@
                         data-aos-easing="ease-in-out"
                   >
                         <h1 class="font-semibold">
-                              {{
-                                    chooseEnglishVersion
-                                          ? "On the 1st Floor : "
-                                          : "Au 1er Etage : "
-                              }}
+                              On the 1st Floor :
                         </h1>
 
                         <ul class="w-5/6 mb-2">
@@ -496,9 +445,7 @@
                                     :id="description.class"
                               >
                                     {{
-                                          chooseEnglishVersion
-                                                ? description.englishDetails
-                                                : description.details
+                                          description.englishDetails
                                     }}
                               </li>
                         </ul>
@@ -574,11 +521,7 @@
                         </div>
 
                         <div class="blinking">
-                              {{
-                                    chooseEnglishVersion
-                                          ? "Hover over the map to explore"
-                                          : "Passer la souris sur le plan pour visiter"
-                              }}
+                              Hover over the map to explore
                         </div>
                   </div>
 
@@ -590,11 +533,7 @@
                         data-aos-easing="ease-in-out"
                   >
                         <h1 class="font-semibold">
-                              {{
-                                    chooseEnglishVersion
-                                          ? "On the 1st Floor : "
-                                          : "Au 1er Etage : "
-                              }}
+                              On the 1st Floor : 
                         </h1>
 
                         <ul class="w-5/6 mb-2">
@@ -607,9 +546,7 @@
                                     :id="description.class"
                               >
                                     {{
-                                          chooseEnglishVersion
-                                                ? description.englishDetails
-                                                : description.details
+                                          description.englishDetails
                                     }}
                               </li>
                         </ul>
@@ -670,18 +607,14 @@
                         </div>
 
                         <div class="blinking">
-                              {{
-                                    chooseEnglishVersion
-                                          ? "Hover over the map to explore"
-                                          : "Cliquer sur un élément du plan pour voir la galerie"
-                              }}
+                              Hover over the map to explore
                         </div>
                   </div>
             </div>
 
             <!-------------------------- LE JARDIN ------------------------------------->
             <h1 class="title" data-aos="flip-right">
-                  {{ chooseEnglishVersion ? "The garden " : "Le jardin " }}
+                  The garden
             </h1>
             <div class="flex justify-between m-auto descriptif__section">
                   <swiper
@@ -714,11 +647,7 @@
                         data-aos-easing="ease-in-out"
                   >
                         <h1 class="font-semibold">
-                              {{
-                                    chooseEnglishVersion
-                                          ? "In the garden : "
-                                          : "Dans le jardin : "
-                              }}
+                              In the garden : 
                         </h1>
 
                         <ul class="w-4/5 mb-2">
@@ -730,9 +659,7 @@
                                     data-aos-easing="ease-in"
                               >
                                     {{
-                                          chooseEnglishVersion
-                                                ? description.englishDetails
-                                                : description.details
+                                          description.englishDetails
                                     }}
                               </li>
                         </ul>
@@ -754,11 +681,7 @@
                         </div>
 
                         <div class="blinking">
-                              {{
-                                    chooseEnglishVersion
-                                          ? "Hover over the map to explore"
-                                          : "Passer la souris sur le plan pour visiter"
-                              }}
+                              Hover over the map to explore
                         </div>
                   </div>
 
@@ -770,11 +693,7 @@
                         data-aos-easing="ease-in-out"
                   >
                         <h1 class="font-semibold">
-                              {{
-                                    chooseEnglishVersion
-                                          ? "In the garden : "
-                                          : "Dans le jardin : "
-                              }}
+                              In the garden : 
                         </h1>
 
                         <ul class="w-4/5 mb-2">
@@ -786,9 +705,7 @@
                                     data-aos-easing="ease-in"
                               >
                                     {{
-                                          chooseEnglishVersion
-                                                ? description.englishDetails
-                                                : description.details
+                                          description.englishDetails
                                     }}
                               </li>
                         </ul>
@@ -821,11 +738,7 @@
                         </div>
 
                         <div class="blinking">
-                              {{
-                                    chooseEnglishVersion
-                                          ? "Hover over the map to explore"
-                                          : "Cliquer sur un élément du plan pour voir la galerie"
-                              }}
+                              Hover over the map to explore
                         </div>
                   </div>
             </div>

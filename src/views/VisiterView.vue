@@ -4,9 +4,7 @@
                   <div class="pt-20 paragraph">
                         <p class="bg-white bg-opacity-90">
                               <!--<span class="text-red-600 text-xl">!!!</span>-->
-                              Le chemin avec le repère rouge est un chemin de
-                              terre. Il n'est absolument pas carrossable. Voici
-                              2 exemples d'itinéraires en bleu.
+                              The path with the red marker is a dirt road. It is absolutely not drivable. Here are 2 examples of routes in blue.
                         </p>
                   </div>
 
@@ -22,60 +20,50 @@
                         <div
                               class="bg-white bg-opacity-80 w-1/4 rounded-lg mr-1 visiter__description"
                         >
-                              <h1 class="text-left ml-4">Depuis l'A13 :</h1>
+                              <h1 class="text-left ml-4">From the A13 :</h1>
                               <ol class="text-left ml-4">
                                     <li class="mb-4">
-                                          Sorti 25 "Bourg Achard : FECAMP,
-                                          YVETOT, PONT de BROTONE"
+                                          Exit 25 "Bourg Achard: FECAMP, YVETOT, PONT de BROTONE"
                                     </li>
 
                                     <li class="mb-4">
-                                          Continuer sur la D313 direction
-                                          FECAMP/YVETOT
+                                          Continue on D313 towards FECAMP/YVETOT
                                     </li>
 
                                     <li class="mb-4">
-                                          Au rond-point prendre à gauche vers
-                                          HAUVILLE
+                                          At the roundabout, turn left towards HAUVILLE
                                     </li>
 
                                     <li class="mb-4">
-                                          Depuis HAUVILLE (2 possibilités)
+                                          From HAUVILLE (2 possibilities)
                                     </li>
                                     <li>
                                           <ul class="ml-10 mb-4">
                                                 <li class="mb-4">
-                                                      1- Une fois sorti de
-                                                      HAUVILLE,
+                                                      1- Once out of HAUVILLE,
                                                 </li>
                                                 <li class="mb-4">
-                                                      À 1.5km, au calvaire,
-                                                      tourner au droite
+                                                      At 1.5km, at the calvary, turn right
                                                 </li>
-                                                <li>Puis la 2ème à droite</li>
+                                                <li>Then take the 2nd right</li>
                                           </ul>
 
                                           <ul class="ml-10 mb-4">
                                                 <li class="mb-4">
-                                                      2- Serrer à droite au
-                                                      monument, puis continuer
-                                                      tout droit.
+                                                      2- Keep right at the monument, then continue straight.
                                                 </li>
                                                 <li class="mb-4">
-                                                      Une fois sorti de Hauville
-                                                      tourner à gauche
+                                                      Once out of Hauville, turn left
                                                 </li>
 
                                                 <li class="mb-4">
-                                                      Puis 1ère à gauche
+                                                      Then take the 1st left
                                                 </li>
                                           </ul>
                                     </li>
 
                                     <li>
-                                          L’entrée est au bout de la route, à
-                                          gauche, juste avant le chemin de
-                                          terre.
+                                          The entrance is at the end of the road, on the left, just before the dirt road.
                                     </li>
                               </ol>
                         </div>

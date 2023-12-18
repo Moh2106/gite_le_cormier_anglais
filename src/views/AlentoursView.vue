@@ -2,10 +2,7 @@
       <div class="alentours" id="haut" v-motion-pop>
             <!---- Petite paragraphe pour une bref description ---->
             <p class="bg-white bg-opacity-90 text-left alentours__paragraph">
-                  Profitez de votre séjour pour découvrir notre région, sur
-                  cette carte vous trouvevez quelques lieux à visiter dans un
-                  rayon de 50 km : fermes, restaurants, sites touristiques,
-                  paysages, randonnées, etc ...
+                  Take advantage of your stay to explore our region. On this map, you will find some places to visit within a 50 km radius: farms, restaurants, tourist sites, landscapes, hiking trails, etc ...
             </p>
 
             <!-- Intégration de la carte avec l'api de google map -->
@@ -51,7 +48,7 @@
                                                       :href="alentour.maps"
                                                       target="_blank"
                                                       rel="noopener noreferrer"
-                                                      >Voir l'itinéraire</a
+                                                      >Check the route</a
                                                 >
                                           </button>
                                     </div>
@@ -77,8 +74,7 @@
                                                             "
                                                             target="_blank"
                                                             rel="noopener noreferrer"
-                                                            >Voir
-                                                            l'itinéraire</a
+                                                            >Check the route</a
                                                       >
                                                 </button>
                                           </div>
@@ -94,7 +90,7 @@
                                                             "
                                                             target="_blank"
                                                             rel="noopener noreferrer"
-                                                            >Site officiel</a
+                                                            >Official website</a
                                                       >
                                                 </button>
                                           </div>
@@ -105,7 +101,7 @@
             </div>
 
             <div class="bubble">
-                  <h2>Quelques sites d'informations</h2>
+                  <h2>Some informational websites.</h2>
             </div>
 
             <div class="monEnsemble">
@@ -146,7 +142,7 @@
                                                 :href="alentour.site"
                                                 target="_blank"
                                                 rel="noopener noreferrer"
-                                                >Site officiel</a
+                                                >Official website</a
                                           >
                                     </button>
                               </div>

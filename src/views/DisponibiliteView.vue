@@ -9,11 +9,7 @@
                         />
 
                         <p>
-                              {{
-                                    chooseEnglishVersion
-                                          ? "Click on your arrival date to begin the reservation"
-                                          : "Cliquer sur votre date d'arrivée pour commencer la réservation"
-                              }}
+                              Click on your arrival date to start booking
                         </p>
                   </div>
 
