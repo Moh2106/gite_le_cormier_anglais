@@ -7,7 +7,7 @@
                               <font-awesome-icon
                                     :icon="['fass', 'arrow-left']"
                               />
-                              Retour</router-link
+                              Back</router-link
                         >
                   </button>
 
@@ -24,11 +24,11 @@
             <div class="gallerie__frame">
                   <div class="titres" id="la-cuisine">
                         <h1 class="title bubble-bottom w-[100%]">
-                              La chambre au rez de chaussée
+                              The ground floor room
                         </h1>
 
                         <h1 class="title__mobile w-[100%]">
-                              La chambre au rez de chaussée
+                              The ground floor room
                         </h1>
                   </div>
 
@@ -51,9 +51,9 @@
             <!------------------- CUISINE DU REZ DE CHAUSSE ---------------------------------->
             <div class="gallerie__frame" >
                   <div class="titres" id="le-salon">
-                        <h1 class="title bubble-bottom w-[100%]">La cuisine</h1>
+                        <h1 class="title bubble-bottom w-[100%]">The kitchen</h1>
 
-                        <h1 class="title__mobile w-[100%]">La cuisine</h1>
+                        <h1 class="title__mobile w-[100%]">The kitchen</h1>
                   </div>
 
                   <div class="gallerie__frame--images mb-4" id="cuisine">
@@ -88,9 +88,9 @@
             <!------------------- SALON DU REZ DE CHAUSSE -------------------------------------->
             <div class="gallerie__frame" id="salon">
                   <div class="titres" id="salles-a-manger">
-                        <h1 class="title bubble-bottom w-[100%]">Le salon</h1>
+                        <h1 class="title bubble-bottom w-[100%]">The living room</h1>
 
-                        <h1 class="title__mobile w-[100%]">Le salon</h1>
+                        <h1 class="title__mobile w-[100%]">The living room</h1>
                   </div>
 
                   <div class="gallerie__frame--images mb-4" >
@@ -126,11 +126,11 @@
             <div class="gallerie__frame" id="salle-a-manger">
                   <div class="titres" id="sdb">
                         <h1 class="title bubble-bottom w-[100%]">
-                              La salle à manger
+                              The dining room
                         </h1>
 
                         <h1 class="title__mobile w-[100%]">
-                              La salle à manger
+                              The dining room
                         </h1>
                   </div>
 
@@ -166,10 +166,10 @@
             <div class="gallerie__frame" id="salle-de-bain">
                   <div class="titres" id="chambre-palieres">
                         <h1 class="title bubble-bottom w-[100%]">
-                              La salle de bain
+                              The bathroom
                         </h1>
 
-                        <h1 class="title__mobile w-[100%]">La salle de bain</h1>
+                        <h1 class="title__mobile w-[100%]">The bathroom</h1>
                   </div>
 
                   <div class="gallerie__frame--images mb-4">
@@ -190,11 +190,11 @@
             <div class="gallerie__frame" id="chambre-paliere">
                   <div class="titres" id="chambres2lits">
                         <h1 class="title bubble-bottom w-[100%]">
-                              La chambre palière à l'étage
+                              The landing bedroom upstairs
                         </h1>
 
                         <h1 class="title__mobile w-[100%]">
-                              La chambre palière à l'étage
+                              The landing bedroom upstairs
                         </h1>
                   </div>
 
@@ -234,11 +234,11 @@
             <div class="gallerie__frame" id="chambre2lits">
                   <div class="titres" id="jardins">
                         <h1 class="title bubble-bottom w-[100%]">
-                              La chambre 2 lits à l'étage
+                              The twin bedroom upstairs
                         </h1>
 
                         <h1 class="title__mobile w-[100%]">
-                              La chambre 2 lits à l'étage
+                              The twin bedroom upstairs
                         </h1>
                   </div>
 
@@ -277,9 +277,9 @@
             <!-------------------- JARDIN ----------------------------------------->
             <div class="gallerie__frame" id="jardin">
                   <div class="titres">
-                        <h1 class="title bubble-bottom w-[100%]">Le jardin</h1>
+                        <h1 class="title bubble-bottom w-[100%]">The garden</h1>
 
-                        <h1 class="title__mobile w-[100%]">Le jardin</h1>
+                        <h1 class="title__mobile w-[100%]">The garden</h1>
                   </div>
 
                   <div class="gallerie__frame--images mb-4">
