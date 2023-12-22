@@ -391,7 +391,7 @@
                                                 Your pets are welcome, and
                                                 <span class="font-semibold"
                                                       >there is no additional cost
-                                                      surcoût</span
+                                                      </span
                                                 >  for them.
                                           </p>
 
